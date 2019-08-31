@@ -1,5 +1,4 @@
-# nodeApp
-CRUD app
+Simple node CRUD app
 
 USAGE 
 
