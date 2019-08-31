@@ -1,4 +1,4 @@
-# nodeHomework
+# nodeApp
 CRUD app
 
 USAGE 
